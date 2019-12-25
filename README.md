@@ -1,2 +1,2 @@
-# -Brownian-motion
-Brownian motion by Monte Carlo method in python
+# Brownian motion
+Brownian motion, Monte Carlo method in python
